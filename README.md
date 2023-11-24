@@ -4,8 +4,8 @@ still not finished
 baaa9i 3ta lah maytzad
 ## Controls
 ### Right bracket
-UP ARROW: to move up
+UP ARROW: to move up\n
 DOWN ARROW: to move down
-## Left bracket
-z: to move up
+### Left bracket
+z: to move up\n
 s: to move down
